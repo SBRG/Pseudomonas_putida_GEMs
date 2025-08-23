@@ -1,0 +1,363 @@
+ID,Reaction,Name,Subsystem
+3HBCD,b2coa_c + h2o_c <=> 3hbcoa__R_c,R_3_hydroxybutyryl_CoA_dehydratase,Unassigned
+AHC,ahcys_c + h2o_c <=> adn_c + hcys__L_c,R_adenosylhomocysteinase,Unassigned
+AKGDbr,coa_c + sdhlam_c <=> dhlam_c + succoa_c,R_oxoglutarate_dehydrogenase__dihydrolipoamide_S_succinyltransferase__reversible,Unassigned
+ALDD3y,h2o_c + nadp_c + ppal_c --> 2.0 h_c + nadph_c + ppa_c,R_aldehyde_dehydrogenase__propanal__NADP_,Unassigned
+BiomassKT2440_Core2,0.000223 10fthf_c + 0.000223 2fe2s_c + 0.000223 4fe4s_c + 0.000223 5mthf_c + 0.000279 accoa_c + 0.598267 ala__L_c + 0.000223 amet_c + 0.354251 arg__L_c + 0.158931 asn__L_c + 0.284685 asp__L_c + 46.918883 atp_c + 0.000223 btamp_c + 0.004226 ca2_c + 0.000223 chor_c + 0.004226 cl_c + 0.000167 coa_c + 0.002817 cobalt2_c + 0.159783 ctp_c + 0.002817 cu2_c + 0.055652 cys__L_c + 0.010804 datp_c + 0.01721 dctp_c + 0.017423 dgtp_c + 0.010854 dttp_c + 0.000223 fad_c + 0.00634 fe2_c + 0.00634 fe3_c + 0.251507 gln__L_c + 0.301809 glu__L_c + 0.431309 gly_c + 0.210704 gtp_c + 41.397362 h2o_c + 0.000223 hemeO_c + 0.126289 his__L_c + 0.244551 ile__L_c + 0.158509 k_c + 0.628769 leu__L_c + 3e-06 lipopb_c + 0.180336 lys__L_c + 3.1e-05 malcoa_c + 0.122008 met__L_c + 0.007044 mg2_c + 0.000223 mlthf_c + 0.002817 mobd_c + 0.012699 murein5px4p_p + 0.003522 na1_c + 0.001786 nad_c + 4.4e-05 nadh_c + 0.000111 nadp_c + 0.000335 nadph_c + 0.010567 nh4_c + 0.002817 ni2_c + 0.00858 pe160_c + 0.042623 pe161_c + 0.002855 pe180_c + 0.019426 pe181_c + 0.004743 pg160_c + 0.023561 pg161_c + 0.001578 pg180_c + 0.010738 pg181_c + 0.191038 phe__L_c + 0.000223 pheme_c + 0.011635 phethapphlipa_c + 0.26328 pro__L_c + 0.03327 ptrc_c + 0.000223 pydx5p_c + 0.000223 q8h2_c + 0.000223 ribflv_c + 0.301274 ser__L_c + 0.000223 sheme_c + 0.003522 so4_c + 9.8e-05 succoa_c + 0.000223 thf_c + 0.256324 thr__L_c + 0.077592 trp__L_c + 0.135921 tyr__L_c + 5.5e-05 udcpdp_c + 0.143215 utp_c + 0.389034 val__L_c + 0.002817 zn2_c --> 46.7502 adp_c + 46.7502 h_c + 46.746677 pi_c + 0.73868 ppi_c,R_Biomass_P_putida_KT2440__aa_DNA_RNA_ATP_murein_FA_ions_,Unassigned
+BiomassKT2440_WT3,0.000223 10fthf_c + 0.000223 2fe2s_c + 0.000223 4fe4s_c + 0.000223 5mthf_c + 0.000279 accoa_c + 0.000223 adocbl_c + 0.598267 ala__L_c + 0.000223 amet_c + 0.354251 arg__L_c + 0.158931 asn__L_c + 0.284685 asp__L_c + 46.918883 atp_c + 0.000223 bmocogdp_c + 0.000223 btamp_c + 0.004226 ca2_c + 0.000223 chor_c + 0.004226 cl_c + 1.8e-05 clpn140_p + 0.000578 clpn160_p + 0.002873 clpn161_p + 0.000192 clpn180_p + 0.001309 clpn181_p + 0.000167 coa_c + 0.002817 cobalt2_c + 0.00041 cpe160_c + 0.000226 cpg160_c + 0.159783 ctp_c + 0.002817 cu2_c + 0.055652 cys__L_c + 0.010804 datp_c + 0.01721 dctp_c + 0.017423 dgtp_c + 0.010854 dttp_c + 0.000223 fad_c + 0.00634 fe2_c + 0.00634 fe3_c + 0.251507 gln__L_c + 0.301809 glu__L_c + 0.431309 gly_c + 0.000223 gthrd_c + 0.210704 gtp_c + 41.397362 h2o_c + 0.000223 hemeO_c + 0.126289 his__L_c + 0.244551 ile__L_c + 0.158509 k_c + 0.628769 leu__L_c + 0.000223 lipopb_c + 0.008696 lpspput_e + 0.180336 lys__L_c + 3.1e-05 malcoa_c + 0.122008 met__L_c + 0.007044 mg2_c + 0.000223 mlthf_c + 0.002817 mn2_c + 0.002817 mobd_c + 0.000223 mocogdp_c + 0.001979 murein3p3p_p + 0.000326 murein3px4p_p + 0.007917 murein4p4p_p + 0.002941 murein4px4p_p + 6.6e-05 murein4px4px4p_p + 0.003522 na1_c + 0.001786 nad_c + 4.4e-05 nadh_c + 0.000111 nadp_c + 0.000335 nadph_c + 0.010567 nh4_c + 0.002817 ni2_c + 0.000251 pe140_c + 0.007882 pe160_c + 0.039155 pe161_c + 0.002622 pe180_c + 0.017845 pe181_c + 0.000138 pg140_c + 0.004354 pg160_c + 0.021632 pg161_c + 0.001449 pg180_c + 0.009859 pg181_c + 0.191038 phe__L_c + 0.000223 pheme_c + 0.000223 pqqh2_c + 0.26328 pro__L_c + 0.03327 ptrc_c + 0.000223 pydx5p_c + 0.000223 pyovd_kt_e + 0.000223 q8h2_c + 0.000223 ribflv_c + 0.301274 ser__L_c + 0.000223 sheme_c + 0.003522 so4_c + 9.8e-05 succoa_c + 0.000223 thf_c + 0.000223 thmnp_c + 0.000223 thmpp_c + 0.256324 thr__L_c + 0.077592 trp__L_c + 0.135921 tyr__L_c + 5.5e-05 udcpdp_c + 0.143215 utp_c + 0.389034 val__L_c + 0.002817 zn2_c --> 46.7502 adp_c + 46.7502 h_c + 46.746677 pi_c + 0.73868 ppi_c,R_Biomass_P_putida_KT2440__aa_DNA_RNA_ATP_murein_FA_ions_soluble_,Unassigned
+CMT2,amet_c + csn_c <=> 5mcsn_c + ahcys_c + h_c,R__cytosine_5___methyltransferase,Unassigned
+COBG,2.0 h_c + nadh_c + o2_c + pre3a_c --> h2o_c + nad_c + pre3b_c,R_Precorrin_3B_synthase__CobG_,Unassigned
+DAAD6,fad_c + h2o_c + phe__D_c --> fadh2_c + nh4_c + phpyr_c,R_D_Amino_acid_dehydrogenase__phe_D_,Unassigned
+DHAD1,23dhmb_c --> 3mob_c + h2o_c,R_dihydroxy_acid_dehydratase__2_3_dihydroxy_3_methylbutanoate_,Unassigned
+DHQD,3dhq_c <=> 3dhsk_c + h2o_c,R_3_dehydroquinate_dehydratase,Unassigned
+DM_C100aPHA,C100aPHA_c --> ,R_C100aPHA_demand,Unassigned
+DM_C100pPHA,C100pPHA_c --> ,R_C100pPHA_demand,Unassigned
+DM_C101PHA,C101PAH_c --> ,R_C101PHA_demand,Unassigned
+DM_C120aPHA,C120aPHA_c --> ,R_C120aPHA_demand,Unassigned
+DM_C121aPHA,C121aPHA_c --> ,R_C121aPHA_demand,Unassigned
+DM_C121d6PHA,C121d6PHA_c --> ,R_C121d6PHA_demand,Unassigned
+DM_C140aPHA,C140aPHA_c --> ,R_C140aPHA_demand,Unassigned
+DM_C141aPHA,C141aPHA_c --> ,R_C121d6PHA_demand,Unassigned
+DM_C141d5PHA,C141d5PHA_c --> ,R_C141d5PHA_demand,Unassigned
+DM_C142PHA,C142PHA_c --> ,R_C142PHA_demand,Unassigned
+DM_C40aPHA,C40aPHA_c --> ,R_C40aPHA_demand,Unassigned
+DM_C40atPHA,C40atPHA_c --> ,R_C40atPHA_demand,Unassigned
+DM_C40pPHA,C40pPHA_c --> ,R_C40pPHA_demand,Unassigned
+DM_C50aPHA,C50aPHA_c --> ,R_C50aPHA_demand,Unassigned
+DM_C50pPHA,C50pPHA_c --> ,R_C50pPHA_demand,Unassigned
+DM_C60aPHA,C60aPHA_c --> ,R_C60aPHA_demand,Unassigned
+DM_C60atPHA,C60atPHA_c --> ,R_C60atPHA_demand,Unassigned
+DM_C60pPHA,C60pPHA_c --> ,R_C60pPHA_demand,Unassigned
+DM_C70aPHA,C70aPHA_c --> ,R_C70aPHA_demand,Unassigned
+DM_C70pPHA,C70pPHA_c --> ,R_C70pPHA_demand,Unassigned
+DM_C80aPHA,C80aPHA_c --> ,R_C80aPHA_demand,Unassigned
+DM_C80pPHA,C80pPHA_c --> ,R_C80pPHA_demand,Unassigned
+DM_C90aPHA,C90aPHA_c --> ,R_C90aPHA_demand,Unassigned
+DM_C90pPHA,C90pPHA_c --> ,R_C90pPHA_demand,Unassigned
+DM__acmum6p,acmum6p_c --> ,R_DM__acmum6p_c_,Unassigned
+DM__ppi50,ppi50_c --> ,R_DM__ppi50,Unassigned
+DM_acgam,acgam_c --> ,R_DM__acgam,Unassigned
+DM_doxopa,doxopa_c --> ,R_DM_doxopa,Unassigned
+DM_tripeptide_c_,tripeptide_c --> ,R_tripeptide_demand,Unassigned
+ECOAE,3hbcoa_c <=> 3hbcoa__R_c,R_3_hydroxyacyl_CoA_dehydratase__3_hydroxybutanoyl_CoA_,Unassigned
+HMR_0180,atp_c + coa_c + dca_c --> amp_c + dcacoa_c + ppi_c,R_fatty_acid__CoA_ligase__decanoate_,Unassigned
+FMNR2r,fmn_c + h_c + nadph_c <=> fmnh2_c + nadp_c,R_FMN_reductase,Unassigned
+FMNRx2,fmn_c + h_c + nadph_c --> fmnh2_c + nadp_c,R_FMN_reductase,Unassigned
+G5SD,glu5p_c + h_c + nadph_c --> glu5sa_c + nadp_c + pi_c,R_glutamate_5_semialdehyde_dehydrogenase,Unassigned
+GLCS3,4.0 adpglc_c --> 4.0 adp_c + glyg4n_c + 4.0 h_c,R_glycogen_synthase__ADPGlc___4_units_,Unassigned
+GLNS,atp_c + glu__L_c + nh4_c --> adp_c + gln__L_c + h_c + pi_c,R_glutamine_synthetase,Unassigned
+GLUCYS,atp_c + cys__L_c + glu__L_c --> adp_c + glucys_c + h_c + pi_c,R_gamma_glutamylcysteine_synthetase,Unassigned
+GLUDx,glu__L_c + h2o_c + nad_c <=> akg_c + h_c + nadh_c + nh4_c,R_glutamate_dehydrogenase__NAD_,Unassigned
+GLYD,h_c + hpyr_c + nadh_c <=> glyc__R_c + nad_c,R_glycerate_dehydrogenase,Unassigned
+HACD9i,3hptcoa_c + nad_c --> 3optcoa_c + h_c + nadh_c,R_3_hydroxyacyl_CoA_dehydrogenase__3_oxovaleryl_CoA_,Unassigned
+HIUHY,5hiu_c + h2o_c <=> 5houdic_c,R_hydroxyisourate_hydrolase,Unassigned
+HOPNTAL3,4h2oxov_c --> acald_c + pyr_c,R_4_hydroxy_2_oxopentanoate_aldolase_m_xylene_,Unassigned
+ILEDHr,h2o_c + ile__L_c + nad_c <=> 3mop_c + h_c + nadh_c + nh4_c,R_Valine_dehydrogenase,Unassigned
+KAT2,3ohcoa_c + coa_c --> accoa_c + btcoa_c,R_3_ketoacyl_CoA_thiolase,Unassigned
+KAT3,3oocoa_c + coa_c --> accoa_c + hxcoa_c,R_3_ketoacyl_CoA_thiolase,Unassigned
+KAT4,3odcoa_c + coa_c --> accoa_c + occoa_c,R_3_ketoacyl_CoA_thiolase,Unassigned
+KAT5,3oddcoa_c + coa_c --> accoa_c + dcacoa_c,R_3_ketoacyl_CoA_thiolase,Unassigned
+KAT6,3otdcoa_c + coa_c --> accoa_c + ddcacoa_c,R_3_ketoacyl_CoA_thiolase,Unassigned
+KAT7,3ohdcoa_c + coa_c --> accoa_c + tdcoa_c,R_3_ketoacyl_CoA_thiolase,Unassigned
+KAT9,3optcoa_c + coa_c --> accoa_c + ppcoa_c,R_acetyl_CoA_C_acyltransferase__3_oxovaleryl_CoA_,Unassigned
+LEUDHr,h2o_c + leu__L_c + nad_c <=> 4mop_c + h_c + nadh_c + nh4_c,R_leucine_dehydrogenase,Unassigned
+LPADSS2,lipidX_kt_c + u23dddcga_c --> h_c + lipidAds_kt_c + udp_c,R_Lipid_A_disaccaride_synthase,Unassigned
+MAL1K,atp_c + malt_c --> adp_c + h_c + malt1p_c,R_maltokinase,Unassigned
+MECDPS,2p4c2me_c --> 2mecdp_c + cmp_c,R_2_C_methyl_D_erythritol_2_4_cyclodiphosphate_synthase,Unassigned
+NAt3_1pp,h_p + na1_c <=> h_c + na1_p,R_sodium_proton_antiporter__HNA_is_11___periplasm_,Unassigned
+OP4ENH3,chpd_c + h2o_c --> 4h2oxov_c,R_2_oxopent_4_enoate_hydratase_m_xylene_,Unassigned
+PPHNTA,Largn_c + akg_c <=> glu__L_c + h_c + pphn_c,R_prephenate_transaminase,Unassigned
+PPK2r,atp_c + ppi_c <=> adp_c + pppi_c,R_polyphosphate_kinase,Unassigned
+PPKr,atp_c + pi_c <=> adp_c + ppi_c,R_polyphosphate_kinase,Unassigned
+PRAIi,pran_c --> 2cpr5p_c,R_phosphoribosylanthranilate_isomerase__irreversible_,Unassigned
+PRAMPC,h2o_c + prbamp_c --> prfp_c,R_phosphoribosyl_AMP_cyclohydrolase,Unassigned
+PRASCSi,5aizc_c + asp__L_c + atp_c --> 25aics_c + adp_c + h_c + pi_c,R_phosphoribosylaminoimidazolesuccinocarboxamide_synthase,Unassigned
+PRMICI,prfp_c <=> prlp_c,R_1__5_phosphoribosyl__5__5_phosphoribosylamino_methylideneamino_imidazole_4_carboxamide_isomerase,Unassigned
+PSCVT,pep_c + skm5p_c <=> 3psme_c + pi_c,R_3_phosphoshikimate_1_carboxyvinyltransferase,Unassigned
+RDXRr,nadh_c + 2.0 rdxo_c <=> h_c + nad_c + 2.0 rdxr_c,R_Rubredoxin_oxidoreductase_reversible,Unassigned
+RHACOAE40,3hbcoa__R_c + h2o_c --> bhb_c + coa_c + h_c,R_R_hydroxy_acyl_CoA_thioesterase__C40_,Unassigned
+SERAT,accoa_c + ser__L_c <=> acser_c + coa_c,R_serine_O_acetyltransferase,Unassigned
+THRA2r,athr__L_c <=> acald_c + gly_c,R_L_allo_Threonine_Aldolase,Unassigned
+THRAr,thr__L_c <=> acald_c + gly_c,R_Threonine_Aldolase,Unassigned
+TRPS1,3ig3p_c + ser__L_c --> g3p_c + h2o_c + trp__L_c,R_tryptophan_synthase__indoleglycerol_phosphate_,Unassigned
+U23GAAT2,3hddecACP_c + u3dcga_c --> ACP_c + h_c + u23dddcga_c,R_UDP_3_O__3_hydroxymyristoyl_glucosamine_acyltransferase,Unassigned
+UAGAAT2,3hdecACP_c + uacgam_c <=> ACP_c + u3dcaga_c,R_UDP_N_acetylglucosamine_acyltransferase__hydroxydecanoyl_,Unassigned
+UDCPGT,udcpp_c + udpgal_c --> udcpg_c + ump_c,R_undecaprenol_phosphate_galactosephosphotransferase,Unassigned
+UHGADA2,h2o_c + u3dcaga_c --> ac_c + u3dcga_c,R_UDP_3_O_acetylglucosamine_deacetylase__hydroxydecanoil_,Unassigned
+VALTRS,atp_c + trnaval_c + val__L_c --> amp_c + ppi_c + valtrna_c,R_Valyl_tRNA_synthetase,Unassigned
+sink_PHAg,PHAg_c <=> ,R_PHA_preexistent,Unassigned
+sink_pqqA_kt_c_,pqqA_kt_c <-- ,R_sink_pqqA_kt,Unassigned
+CMS,2me4p_c + ctp_c --> 4c2me_c + ppi_c,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,Unassigned
+PRAI,pran_c --> 2cpr5p_c,Phosphoribosylanthranilate isomerase,Unassigned
+SERH,3ig3p_c + ser__L_c --> g3p_c + h2o_c + trp__L_c,L-serine hydrolyase,Unassigned
+GALh,atp_c + glu__L_c + nh4_c --> adp_c + gln__L_c + h_c + pi_c,"Glutamate---ammonia ligase, ",Unassigned
+DHAD_3mob_h,23dhmb_c --> 3mob_c + h2o_c,"Dihydroxy-acid dehydratase, 3-Methyl-2-oxobutanoate, ",Unassigned
+PRICIh,prfp_c --> prlp_c,"1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase, ",Unassigned
+PRACHh,h2o_c + prbamp_c --> prfp_c,"Phosphoribosyl-AMP cyclohydrolase, ",Unassigned
+DHQTi,3dhq_c --> 3dhsk_c + h2o_c,"3-dehydroquinate dehydratase, irreversible",Unassigned
+PRAISh,5aizc_c + asp__L_c + atp_c --> 25aics_c + adp_c + h_c + pi_c,"Phosphoribosylaminoimidazolesuccinocarboxamide synthase, ",Unassigned
+G5DHx,glu5p_c + h_c + nadph_c <=> glu5sa_c + nadp_c + pi_c,Glutamate-5-semialdehyde dehydrogenase,Unassigned
+PSCIT,pep_c + skm5p_c --> 3psme_c + pi_c,3-phosphoshikimate 1-carboxyvinyltransferase,Unassigned
+VALTLh,atp_c + trnaval_c + val__L_c --> amp_c + ppi_c + valtrna_c,"Valine---tRNA ligase, ",Unassigned
+TAL,thr__L_c --> 2obut_c + nh4_c,Threonine ammonia-lyase,Unassigned
+IDPh,h2o_c + ppi_c --> 2.0 pi_c,Inorganic diphosphatase,Unassigned
+MCS,2p4c2me_c --> 2mecdp_c + cmp_c,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",Unassigned
+FACOAL100p,atp_c + coa_c + dca_c --> amp_c + dcacoa_c + ppi_c,Fatty acid  CoA ligase  decanoate   peroxisomal,Unassigned
+GCL,atp_c + cys__L_c + glu__L_c --> adp_c + glucys_c + h_c + pi_c,Glutamate---cysteine ligase,Unassigned
+AKGDb,coa_c + sdhlam_c --> dhlam_c + succoa_c,Oxoglutarate dehydrogenase (dihydrolipoamide S-succinyltransferase),Unassigned
+SAT,accoa_c + ser__L_c --> acser_c + coa_c,Serine O-acetyltransferase,Unassigned
+13PPDH2,h_c + lald__L_c + nadph_c <=> 13ppd_c + nadp_c,"1,3-propanediol dehydrogenase",Unassigned
+ALDD3y2,h2o_c + nadp_c + ppal_c --> 2.0 h_c + nadph_c + ppa_c,"Aldehyde dehydrogenase (propanal, NADP)",Unassigned
+CHLPi,cholp_c + h2o_c --> chol_c + pi_c,Choline_phosphate phosphatase,Unassigned
+ETHPi,ethamp_c + h2o_c --> etha_c + pi_c,Ethanolamine_phosphate phosphatase,Unassigned
+2obut_Transport,2obut_e --> 2obut_c,,Unassigned
+f6p_Transport,f6p_e --> f6p_c,,Unassigned
+g1p_Transport,g1p_e --> g1p_c,,Unassigned
+g6p_Transport,g6p_e --> g6p_c,,Unassigned
+glx_Transport,glx_e --> glx_c,,Unassigned
+malt_Transport,malt_e --> malt_c,,Unassigned
+malttr_Transport,malttr_e --> malttr_c,,Unassigned
+thymd_Transport,thymd_e --> thymd_c,,Unassigned
+tre_Transport,tre_e --> tre_c,,Unassigned
+inost_Transport,inost_e --> inost_c,,Unassigned
+lcts_Transport,lcts_e --> lcts_c,,Unassigned
+CITCIb,citac_c + h2o_c <=> r3mmal_c,3-methylmalate hydratase,Unassigned
+3MMD,nad_c + r3mmal_c --> 2m3osuc_c + h_c + nadh_c,3-methylmalate dehydrogenase,Unassigned
+MOSDC,2m3osuc_c + h_c --> 2obut_c + co2_c,2-methyl-3-oxosuccinate decarboxylation,Unassigned
+citac_Transport,citac_e --> citac_c,,Unassigned
+CITCIa,citm_c <=> citac_c + h2o_c,Citramalate dehydratase,Unassigned
+citm_Transport,citm_e --> citm_c,,Unassigned
+ASPR,asp__D_c --> asp__L_c,Aspartate racemase,Unassigned
+asp__D_Transport,asp__D_e --> asp__D_c,,Unassigned
+SSAH,2.0 h_c + nadh_c + sucsal_c <=> h4but_c + nad_c,,Unassigned
+OCOAT3r,ghb_c + succoa_c <=> 4hbutcoa_c + succ_c,3-oxoacid CoA-transferase (Succinyl-CoA: 4-hydroxybutanoate),Unassigned
+GHBDHy,h_c + nadph_c + sucsal_c <=> ghb_c + nadp_c,Gamma-hydroxybutyrate dehydrogenase (NADPH),Unassigned
+h4but_Transport,h4but_e --> h4but_c,,Unassigned
+2HBO,2hb_c + nad_c <=> 2obut_c + h_c + nadh_c,2 HydroxybutyrateNAD oxidoreductase,Unassigned
+EPGALURSe,h2o_e + pectin_e --> galur_e,Endopolygalacturonase  extracellular ,Unassigned
+MLTG6,dextrin_c + 2.0 h2o_c --> 2.0 glc__D_c,Maltodextrin glucosidase  dextrin ,Unassigned
+SORD_D,fad_c + sbt__D_c <=> fadh2_c + srb__L_c,D sorbitol dehydrogenase,Unassigned
+SBTD_D2,nad_c + sbt__D_c --> fru_c + h_c + nadh_c,D sorbitol dehydrogenase  D fructose producing ,Unassigned
+TARTRDH2,nad_c + tartr__M_c <=> h_c + nadh_c + oxglyc_c,Tartrate dehydrogenase,Unassigned
+TARTRDH,nad_c + tartr__L_c <=> h_c + nadh_c + oxglyc_c,Tartrate dehydrogenase,Unassigned
+TARTDC,h_c + tartr__L_c --> co2_c + glyc__R_c,Tartrate decarboxylase,Unassigned
+tartr__M_Transport,tartr__M_e --> tartr__M_c,,Unassigned
+MACPT,acACP_c + malon_c --> ac_c + malACP_c,Malonyl-ACP transferase,Unassigned
+malon_Transport,malon_e --> malon_c,,Unassigned
+TAG1PK,atp_c + tag1p__D_c --> adp_c + h_c + tagdp__D_c,D Tagatose 1 phosphate kinase,Unassigned
+TGBPA,tagdp__D_c <=> dhap_c + g3p_c,Tagatose-bisphosphate aldolase,Unassigned
+TCBO,q8_c + tcb_c --> acon_C_c + q8h2_c,Tricarballylate oxidase,Unassigned
+AMPEP4,alagly_c + h2o_c <=> ala__L_c + gly_c,Aminopeptidase ,Unassigned
+AMPEP10,gly_asp__L_c + h2o_c <=> asp__L_c + gly_c,Aminopeptidase ,Unassigned
+AMPEP8,gly_glu__L_c + h2o_c <=> glu__L_c + gly_c,Aminopeptidase ,Unassigned
+PPDOy,h_c + lald__D_c + nadph_c --> 12ppd__R_c + nadp_c,"Propane-1,2-diol:NADP+ 1-oxidoreductase",Unassigned
+AGDC,acgam6p_c + h2o_c --> ac_c + gam6p_c,N-acetylglucosamine-6-phosphate deacetylase,Unassigned
+AMANAPEr,acmanap_c <=> acgam6p_c,N-acetylmannosamine 6-phosphate epimerase,Unassigned
+ACNML,acnam_c --> acmana_c + pyr_c,N-Acetylneuraminate lyase,Unassigned
+AMANK,acmana_c + atp_c --> acmanap_c + adp_c + h_c,N-acetyl-D-mannosamine kinase,Unassigned
+ALLK,all__D_c + atp_c --> adp_c + all6p_c + h_c,Allose kinase,Unassigned
+ALLPI,all6p_c <=> allul6p_c,Allose 6-phosphate isomerase,Unassigned
+ALLULPE,allul6p_c <=> f6p_c,Allulose 6-phosphate epimerase,Unassigned
+ARAI,arab__L_c <=> rbl__L_c,L-arabinose isomerase,Unassigned
+RBK_L1,atp_c + rbl__L_c --> adp_c + h_c + ru5p__L_c,L-ribulokinase (L-ribulose),Unassigned
+BUTCT,accoa_c + but_c --> ac_c + btcoa_c,Acetyl-CoA:butyrate-CoA transferase,Unassigned
+HACD1,aacoa_c + h_c + nadh_c <=> 3hbcoa_c + nad_c,3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA),Unassigned
+DHAPT,dha_c + pep_c --> dhap_c + pyr_c,Dihydroxyacetone phosphotransferase,Unassigned
+FCI,fuc__L_c <=> fcl__L_c,L-fucose isomerase,Unassigned
+FCLK,atp_c + fcl__L_c --> adp_c + fc1p_c + h_c,L-fuculokinase,Unassigned
+FCLPA,fc1p_c <=> dhap_c + lald__L_c,L-fuculose 1-phosphate aldolase,Unassigned
+GALKr,atp_c + gal_c <=> adp_c + gal1p_c + h_c,Galactokinase,Unassigned
+UGLT,gal1p_c + udpg_c <=> g1p_c + udpgal_c,UDPglucose--hexose-1-phosphate uridylyltransferase,Unassigned
+GLTPD,galt1p_c + nad_c <=> h_c + nadh_c + tag6p__D_c,Galactitol-1-phosphate dehydrogenase,Unassigned
+PFK_2,atp_c + tag6p__D_c --> adp_c + h_c + tagdp__D_c,Phosphofructokinase,Unassigned
+G6PDA,gam6p_c + h2o_c --> f6p_c + nh4_c,Glucosamine-6-phosphate deaminase,Unassigned
+GLYC3Pt6pp,glyc3p_p + pi_c --> glyc3p_c + pi_p,Glycerol-3-phosphate : phosphate antiporter (periplasm),Unassigned
+G3PT,glyc3p_c + h2o_c --> glyc_c + pi_c,Glycerol-3-phosphatase,Unassigned
+LYXI,lyx__L_c --> xylu__L_c,Lyxose isomerase,Unassigned
+XYLK2,atp_c + xylu__L_c --> adp_c + h_c + xu5p__L_c,L-xylulokinase,Unassigned
+X5PL3E,xu5p__L_c --> ru5p__L_c,L-xylulose 5-phosphate 3-epimerase,Unassigned
+RBP4E,ru5p__L_c <=> xu5p__D_c,L-ribulose-phosphate 4-epimerase,Unassigned
+MALDDH,mal__D_c + nad_c --> co2_c + nadh_c + pyr_c,Malate decarboxylating oxidoreductase (decarboxylating),Unassigned
+METGLCURtex,metglcur_e <=> metglcur_p,1-O-methyl-Beta-D-glucuronate via diffusion (extracellular),Unassigned
+METGLCUR,h2o_c + metglcur_c --> glcur_c + meoh_c,1-O-Methyl-Beta-D-glucuronidase,Unassigned
+M1PD,mnl1p_c + nad_c <=> f6p_c + h_c + nadh_c,Mannitol-1-phosphate 5-dehydrogenase,Unassigned
+SBTPD,nad_c + sbt6p_c <=> f6p_c + h_c + nadh_c,Sorbitol-6-phosphate dehydrogenase,Unassigned
+TARTRt7pp,succ_c + tartr__L_p <=> succ_p + tartr__L_c,Tartrate/succinate antiporter (periplasm),Unassigned
+TARTD,tartr__L_c --> h2o_c + oaa_c,L(+)-tartrate dehydratase,Unassigned
+TYROXDApp,h2o_p + o2_p + tym_p --> 4hoxpacd_p + h2o2_p + nh4_p,Tyramine:oxygen oxidoreductase(deaminating)(flavin-containing) (periplasm),Unassigned
+4HOXPACDOX_NADP,4hoxpacd_c + h2o_c + nadp_c --> 4hphac_c + 2.0 h_c + nadph_c,4HOXPACDOX LPAREN NADP RPAREN ,Unassigned
+AACOAR_syn,aacoa_c + h_c + nadph_c --> 3hbcoa__R_c + nadp_c,Acetoacetyl CoA reductase,Unassigned
+ACDO,dhmtp_c + o2_c --> 2kmb_c + for_c + h_c,Acireductone dioxygenase,Unassigned
+ACOXT,accoa_c + oxa_c --> ac_c + oxalcoa_c,Acetyl-CoA:oxalate CoA-transferase,Unassigned
+AMAA,acmama_c + h2o_c --> acmam_c + ala__L_c,N-acetylmuramoyl-L-alanine amidase,Unassigned
+BLACT,h2o_c + pencil_c --> h_c + pencilca_c,Beta lactamase,Unassigned
+CBL,cyst__L_h + h2o_h --> hcys__L_h + nh4_h + pyr_h,Cystathionine beta-lyase,Unassigned
+CDPGLC46DH,cdpglc_c --> cdp4dh6doglc_c + h2o_c,CDP glucose 4 6 dehydratase,Unassigned
+CMHMI,5cmhm_c --> 5cohe_c,5 carboxymethyl 2 hydroxymuconate delta isomerase,Unassigned
+CODSCL5DA,codscl5a_c + h2o_c --> acald_c + codscl5b_c + h_c,Cobalt precorrin 5a deacetylation,Unassigned
+COKECBESr,coke_r + h2o_r --> bz_r + egme_r + h_r,Carboxylesterase (cocaine) (er),Unassigned
+DGUNC,2.0 gtp_c --> cdigmp_c + 2.0 ppi_c,Diguanylate cyclase,Unassigned
+DHPDO,34dhpha_c + o2_c --> 5cmhmsa_c + h_c,3 4 dihydroxyphenylacetate 2 3 dioxygenase,Unassigned
+DHR,cbasp_m --> dhor__S_m + h2o_m + h_m,Dihydroorotase,Unassigned
+EAR181x,h_c + nadh_c + t3c11vaceACP_c --> nad_c + octeACP_c,Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:1),Unassigned
+EAR80x,h_c + nadh_c + toct2eACP_c --> nad_c + ocACP_c,Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C8:0),Unassigned
+ECGISOr,ecgon_r --> pecgon_r,Ecgonine isomerase (ER),Unassigned
+FLVRx,h_c + nadh_c + ribflv_c --> nad_c + rbflvrd_c,Flavin reductase (NAD),Unassigned
+FNOR,2.0 fdxrd_c + h_c + nadp_c --> 2.0 fdxo_2_2_c + nadph_c,Ferredoxin---NADP+ reductase,Unassigned
+H4THDPS,aspsa_c + pyr_c --> 4hthdp_c + h2o_c + h_c,4-hydroxy-tetrahydrodipicolinate synthase,Unassigned
+HIUH,5hiu_m + h2o_m --> 5houdic_m,Hydroxyisourate hydrolase,Unassigned
+HPA3MO,4hphac_c + h_c + nadh_c + o2_c --> 34dhpha_c + h2o_c + nad_c,4 hydroxyphenylacetate 3 monooxygenase nadh,Unassigned
+HSD17B2r,andrstndn_r + h_r + nadh_r --> nad_r + tststerone_r,17-beta-hydroxysteroid dehydrogenase,Unassigned
+HSD3A1r,andrstandn_r + h_r + nadh_r --> andrstrn_r + nad_r,3 alpha-hydroxysteroid dehydrogenase (type 3),Unassigned
+HSTPTr,glu__L_c + imacp_c --> akg_c + h_c + hisp_c,Histidinol phosphate transaminase,Unassigned
+KAS6,17.0 h_c + ibcoa_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa6_c + 5.0 h2o_c + 12.0 nadp_c,B-ketoacyl synthetase (Iso-C16:0),Unassigned
+MS,h_m + hcys__L_m + mhpglu_m --> hpglu_m + met__L_m,5-methyltetrahydropteroyltriglutamate---homocysteine S-methyltransferase,Unassigned
+PACCOAL2,4hphac_c + atp_c + coa_c --> amp_c + hphaccoa_c + ppi_c,Phenylacetate-CoA ligase (hydroxyphenylacetate),Unassigned
+PACL,atp_c + coa_c + pac_c --> amp_c + h_c + phaccoa_c + ppi_c,Phenylacetate---CoA ligase,Unassigned
+PAN4PP,h2o_c + pan4p_c --> pi_c + ptth_c,Phosphatase (pan4p),Unassigned
+PHACTE,h2o_c + phaccoa_c --> coa_c + pac_c,Phenylacetyl CoA thioesterase,Unassigned
+PHYT3,h2o_c + inoshp_c --> inospp1_c + pi_c,3 phytase,Unassigned
+PPBNGS_1,2.0 5aop_h + h_h --> 2.0 h2o_h + ppbng_h,Porphobilinogen synthase,Unassigned
+Q23DO,o2_c + quc_c --> 2pcpgc_c + co_c,Quercetin 2 3 dioxygenase,Unassigned
+r1377,fald_c + gthrd_c --> HC02121_c,S-(hydroxymethyl)glutathione synthase Methane metabolism EC:4.4.1.22,Unassigned
+RDH2a,nadp_c + retinol_9_cis_c --> h_c + nadph_c + retinal_cis_9_c,"Retinol dehydrogenase (9-cis,NADPH)",Unassigned
+RE1711C_2,CE1918_c + nad_c --> 5hoxindact_c + h_c + nadh_c,RE1711,Unassigned
+RE2034C,C02356_c + akg_c --> 2obut_c + glu__L_c,Alanine Transaminase,Unassigned
+SBTRh,nadp_h + sbt__D_h --> Glc_aD_h + h_h + nadph_h,D-Glucitol:NADP+ 1-oxidoreductase,Unassigned
+SERD_D,ser__D_c --> nh4_c + pyr_c,D-serine deaminase,Unassigned
+SGOR,fad_c + sphgn_c --> fadh2_c + sphings_c,Sphinganine oxidoreductase,Unassigned
+SPMS,ametam_c + ptrc_c --> 5mta_c + h_c + spmd_c,Spermidine synthase,Unassigned
+SULFT,cn_c + thios_c --> so3_c + thioc_c,Sulfurtransferase (thiosulfate),Unassigned
+T2M26DCOAHLm,h2o_m + t2m26dcoa_m --> 3h26dm5coa_m,"Trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase (m)",Unassigned
+UACMAMO,h2o_c + 2.0 nad_c + uacmam_c --> 3.0 h_c + 2.0 nadh_c + uacmamu_c,UDP-N-acetyl-D-mannosamine oxidoreductase,Unassigned
+BCDO,caro_c + o2_c --> 2.0 retinal_c,Beta-Carotene dioxygenase,Unassigned
+GLCNACAMS,mal__L_c + uacgam_c --> acgamm_c + h_c + udp_c,N-acetyl-alpha-D-glucosaminyl L-malate synthase,Unassigned
+ACTD,actn__R_c + nad_c --> diact_c + h_c + nadh_c,Acetoin dehydrogenase,Unassigned
+CRNCDH,crncoa_c --> ctbtcoa_c + h2o_c,Carnityl-CoA dehydratse,Unassigned
+CMLBL,4cnbt_c + h2o_c --> h_c + malac_c,CARBOXYMETHYLENEBUTENOLIDASE-RXN,Unassigned
+FORA,frmd_c + h2o_c --> for_c + h_c + nh4_c,Formamidase,Unassigned
+DHPTPE,ahdt_c --> dhmptp_c,Dihydroneopterin triphosphate 2'-epimerase,Unassigned
+HAS2,ha_pre1_e + uacgam_c + udpglcur_c --> 2.0 h_c + ha_e + 2.0 udp_c,Hyaluronan synthase,Unassigned
+DKII,46dh25dohxn_c + h_c + nadh_c --> 2ddglcn_c + nad_c,2 dehydro 3 deoxy D gluconate 5 dehydrogenase,Unassigned
+LDH_L,lac__L_c + nad_c --> h_c + nadh_c + pyr_c,L-lactate dehydrogenase,Unassigned
+MGSA,dhap_c --> mthgxl_c + pi_c,Methylglyoxal synthase,Unassigned
+3HPPPNH,3hpppn_c + h_c + nadh_c + o2_c --> dhpppn_c + h2o_c + nad_c,3-(3-hydroxy-phenyl)propionate hydroxylase,Unassigned
+MSHS,accoa_c + cigam_c --> coa_c + msh_c,Mycothiol synthase,Unassigned
+NMO,etha_c + fmnh2_c + o2_c --> acald_c + fmn_c + no2_c,Nitronate Monooxygenase,Unassigned
+PSP,h2o_h + pser__L_h --> pi_h + ser__L_h,Phosphoserine phosphatase,Unassigned
+ASP1DC,asp__L_c + h_c --> ala_B_c + co2_c,Aspartate 1-decarboxylase,Unassigned
+PPCOAC,atp_c + hco3_c + ppcoa_c --> adp_c + h_c + mmcoa__S_c + pi_c,Propionyl-CoA carboxylase,Unassigned
+RHMND,rhmn_c --> h2o_c + lkdr_c,L-rhamnonate dehydratase,Unassigned
+UDPGD,h2o_c + 2.0 nad_c + udpg_c --> 3.0 h_c + 2.0 nadh_c + udpglcur_c,UDPglucose 6-dehydrogenase,Unassigned
+3HPPD,3hpp_c + nad_c --> h_c + msa_c + nadh_c,3-hydroxypropionate dehydrogenase,Unassigned
+ACONT,cit_c --> icit_c,Aconitate hydratase,Unassigned
+ACCOALm,atp_m + coa_m + ppa_m --> amp_m + ppcoa_m + ppi_m,Acetate-CoA ligase (AMP-forming),Unassigned
+UGAH,h2o_m + h_m + udg_m --> nh4_m + urdglyc_m,Ureidoglycine aminohydrolase,Unassigned
+ACMAA,h2o_c + pepm_w --> aglaa_e + anhgm_w,N-acetylmuramoyl-L-alanine amidase,Unassigned
+GLUN,gln__L_c + h2o_c --> glu__L_c + nh4_c,Glutaminase,Unassigned
+OCT,cbp_c + orn_c --> citr__L_c + pi_c,Ornithine carbamoyltransferase,Unassigned
+SKDH,3dhsk_h + h_h + nadph_h --> nadp_h + skm_h,Shikimate dehydrogenase,Unassigned
+SKK,atp_h + skm_h --> adp_h + h_h + skm5p_h,Shikimate kinase,Unassigned
+DQDH,3dhq_h --> 3dhsk_h + h2o_h,3-deydroquinate dehydratase,Unassigned
+BZSCD,bzsuccoa_c + fad_c --> fadh2_c + phitcoa_c,Benzylsuccinyl-CoA dehydrogenase,Unassigned
+MPML,atp_c + h2o_c + mg2_c + ppp9_c --> adp_c + 3.0 h_c + mppp9_c + pi_c,Mg-protoporphyrin IX magnesium-lyase,Unassigned
+CELASE1,cell4_c + h2o_c --> 2.0 cellb_c,Celluase,Unassigned
+CHOLD2,chol_c + fad_c --> betald_c + fadh2_c,Choline dehydrogenase  FAD dependent ,Unassigned
+DMBZIDS2,fmnh2_c + h_c + nadh_c + o2_c --> dialurate_c + dmbzid_c + e4p_c + h2o_c + nad_c,"5,6-dimethylbenzimidazole synthase",Unassigned
+CYRDAS,2.0 atp_c + cobya_c + 2.0 gln__L_c + h2o_c --> 2.0 adp_c + co2dam_c + 2.0 glu__L_c + h_c + ppi_c,"Cob(II)yrinate a,c-diamide synthase (glutamine-hydrolysing)",Unassigned
+CPC5MT,amet_c + copre5_c + h2o_c --> acald_c + ahcys_c + copre6_c + h_c,Precorrin-5 C1-methyltransferase,Unassigned
+PCT,ctp_c + h_c + ptdoh_MRSA_c --> cdpdag_MRSA_c + pi_c,Phosphatidate cytidylyltransferase,Unassigned
+CXSAMS,amet_c + pphn_c --> cxsam_c + h2o_c + phpyr_c,Carboxy-S-adenosyl-L-methionine synthase,Unassigned
+THRPDC,h_c + thrp_c --> applp_c + co2_c,L threonine phosphate decarboxylase,Unassigned
+G1PUT_h,g1p_h + h_h + utp_h --> ppi_h + udpg_h,UTP:alpha-D-glucose-1-phosphate uridylyltransferase,Unassigned
+CYNL,cynt_c + h_c + hco3_c --> cbm_c + co2_c,Cyanate lyase,Unassigned
+CYTBD,2.0 h_c + 0.5 o2_c + q8h2_c --> h2o_c + 2.0 h_e + q8_c,Cytochrome oxidase bd (ubiquinol-8: 2 protons),Unassigned
+H4THDPR,4hthdp_c + h_c + nadph_c --> h2o_c + nadp_c + thdp_c,4-hydroxy-tetrahydrodipicolinate reductase,Unassigned
+APATi,accoa_c + h2o_c + thdp_c --> acamoxm_c + coa_c,Tetrahydrodipicolinate acetyltransferase,Unassigned
+13PPDH,3hppnl_c + h_c + nadh_c --> 13ppd_c + nad_c,"1,3-propanediol dehydrogenase",Unassigned
+DHPD,56dura_c + h2o_c --> cala_c,Dihydropyrimidinase,Unassigned
+SALCOD,2.0 h_c + nadh_c + o2_c + salc_c --> catechol_c + co2_c + h2o_c + nad_c,Salicylate NADH oxygen oxidoreductase 1-hydroxylating  ,Unassigned
+DXRI,dxyl5p_h + h_h + nadph_h --> 2me4p_h + nadp_h,1-deoxy-D-xylulose-5-phosphate reductoisomerase,Unassigned
+DXS,g3p_h + h_h + pyr_h --> co2_h + dxyl5p_h,1-deoxy-D-xylulose-5-phosphate synthase,Unassigned
+TDPGALPT,akg_c + dtdp3a36ddgalp_c --> dtdp3d6dgalp_c + glu__L_c,"DTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase",Unassigned
+TDPGALPACT,accoa_c + dtdp3a36ddgalp_c --> coa_c + dtdpquip3nac_c + h_c,"DTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase",Unassigned
+DHNPA,dhnpt_c --> 2ahhmp_c + gcald_c + h_c,Dihydroneopterin aldolase,Unassigned
+r1378,HC02121_c + nad_c --> Sfglutth_c + h_c + nadh_c,S-(hydroxymethyl)glutathione dehydrogenase Methane metabolism EC:1.1.1.284,Unassigned
+GAPD_1,g3p_c + nad_c + pi_c --> 13dpg_c + nadh_c,Glyceraldehyde-3-phosphate dehydrogenase,Unassigned
+GLYCK2,atp_c + glyc__R_c --> 2pg_c + adp_c + h_c,Glycerate kinase,Unassigned
+HOXPRx,glyc__R_c + nad_c --> 2h3opp_c + h_c + nadh_c,2 hydroxy 3 oxopropionate reductase  NAD ,Unassigned
+GLCDe,glc__D_e + h2o_e + q8_c --> glcn_e + h_e + q8h2_c,Glucose dehydrogenase (ubiquinone-8 as acceptor),Unassigned
+GLYDHD,gly_m + lpro_m --> alpro_m + co2_m,Glycine dehydrogenase (decarboxylating),Unassigned
+GDH1,glu__L_c + h2o_c + nad_c --> akg_c + 2.0 h_c + nadh_c + nh3_c,Glutamate dehydrogenase (NAD),Unassigned
+GDH2,glc__bD_c + nadp_c --> 15gl_c + h_c + nadph_c,Glucose 1-dehydrogenase (NADPH),Unassigned
+GLYCTO2,glyclt_c + q8_c --> glx_c + q8h2_c,Glycolate oxidase,Unassigned
+GLYCTO3,glyclt_c + mqn8_c --> glx_c + mql8_c,Glycolate oxidase,Unassigned
+GLYCTO4,2dmmq8_c + glyclt_c --> 2dmmql8_c + glx_c,Glycolate oxidase,Unassigned
+GLUK,atp_c + glc__D_c --> adp_c + g6p_B_c + h_c,Glucokinase,Unassigned
+G3PD1,dhap_h + h_h + nadh_h --> glyc3p_h + nad_h,Glycerol-3-phosphate dehydrogenase (NAD),Unassigned
+GLUS_nadph,akg_h + gln__L_h + h_h + nadph_h --> 2.0 glu__L_h + nadp_h,Glutamate synthase (NADPH),Unassigned
+GDR,gthox_c + h_c + nadh_c --> 2.0 gthrd_c + nad_c,Glutathione-disulfide reductase,Unassigned
+GTHS_1,atp_h + glucys_h + gly_h --> adp_h + gthrd_h + 2.0 h_h + pi_h,Glutathione synthase,Unassigned
+GMPS,atp_c + nh4_c + xmp_c --> amp_c + gmp_c + 2.0 h_c + ppi_c,GMP synthase,Unassigned
+IDTDH,h_c + nadh_c + srb__L_c --> idt_c + nad_c,L-IDITOL-2-DEHYDROGENASE-RXN,Unassigned
+GLYOX3,h2o_c + mthgxl_c --> h_c + lac__D_c,Glyoxalase III,Unassigned
+4HBZR,4hbzcoa_c + fdxr_42_c + 6.0 h_c --> benzcoa_c + fdxo_42_c + h2o_c,4-hydroxybenzoylCoA reducatse,Unassigned
+FECPP3O,2.0 amet_c + fecpp3_c --> 2.0 co2_c + 2.0 dad_5_c + 4.0 h_c + 2.0 met__L_c + pheme_c,Fe-coproporphyrin III oxidase/dehydrogenase,Unassigned
+NAD_H2,h_c + nadh_c --> h2_c + nad_c,NAD-linked hydrogenase,Unassigned
+HSDH,aspsa_h + h_h + nadph_h --> hom__L_h + nadp_h,Homoserine dehydrogenase,Unassigned
+INS2D,inost_c + nad_c --> 2ins_c + h_c + nadh_c,Inositol 2-dehydrogenase,Unassigned
+MOAT,ckdo_c + lipidA_c --> cmp_c + h_c + kdolipid4_c,3-deoxy-D-manno-octulosonic acid transferase,Unassigned
+IPMD_1,3c2hmp_c + nad_c --> 2ip3os_c + h_c + nadh_c,3-isopropylmalate dehydrogenase,Unassigned
+TDSK,atp_c + lipidAds_c --> adp_c + h_c + lipidA_c,Tetraacyldisaccharide 4'kinase,Unassigned
+LAURTRANS,ddcaACP_c + kdo2lipid4_c --> ACP_c + laur_kdo2lipid4_c,Lauroyl acyltransferase to tetra-acyl KDO2 lipid A,Unassigned
+r1391,dxtrn_c --> HC02136_c,"Amylo-1,6-glucosidase, 4-alpha-glucanotransferase EC:2.4.1.25",Unassigned
+ALCD1,meoh_c + nad_c --> fald_c + h_c + nadh_c,Alcohol dehydrogenase (methanol),Unassigned
+SHCHCS3,2sephchc_c --> 2shchc_c + pyr_c,"2-succinyl-6-hydroxy-2,4-cyclohexadiene 1-carboxylate synthase",Unassigned
+HKNDDH,h2o_c + hkndd_c --> h_c + op4en_c + succ_c,"2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase",Unassigned
+HIBD,3hmp_c + nad_c --> 2mop_c + h_c + nadh_c,3 hydroxyisobutyrate dehydrogenase,Unassigned
+GTPC,amet_c + gtp_c --> 38ch2gtp_c + dad_5_c + met__L_c,"GTP 3',8'-cyclase",Unassigned
+FMNRy_1,fmn_c + 2.0 h_c + nadph_c --> fmnh2_c + nadp_c,FMN reductase NADPH dependent,Unassigned
+AHCYSNS,ahcys_c + h2o_c --> ade_c + rhcys_c,S-adenosylhomocysteine nucleosidase,Unassigned
+UAATAAL,alaala_c + atp_c + uamagl_c --> adp_c + h_c + pi_c + uamaglaa_c,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,Unassigned
+DGTP8DETOX,8oxdgtp_c + h2o_c --> 8oxdgmp_c + h_c + ppi_c,8-oxo-dGTP diphosphohydrolase,Unassigned
+PBAL,ala_B_c + atp_c + pant__R_c --> amp_c + 2.0 h_c + pnto__R_c + ppi_c,Pantoate---beta-alanine ligase,Unassigned
+HTHRPDH,nad_c + phthr_c --> 2a3pp_c + h_c + nadh_c,4-hydroxythreonine-4-phosphate dehydrogenase,Unassigned
+PDX5PSc,3a2oprop_c + dxyl5p_c --> 2.0 h2o_c + h_c + pdx5p_c + pi_c,Pyrodoxine-5-phosphate synthase c,Unassigned
+PHEH_c,o2_c + phe__L_c + thbpt_c --> hthbp_c + tyr__L_c,Phenylalanine hydroxylase,Unassigned
+PRO1x,nad_c + pro__L_c --> 1pyr5c_c + 2.0 h_c + nadh_c,Proline oxidase  L proline  NAD ,Unassigned
+RIBFS,2.0 dmlz_h + h_h --> 4r5au_h + ribflv_h,Riboflavin synthase,Unassigned
+SER_AL,ser__L_c --> h_c + nh3_c + pyr_c,L-serine ammonia-lyase,Unassigned
+SLDK,atp_m + h2o_m + seln_m --> amp_m + 2.0 h_m + pi_m + selnp_m,"Selenide, water dikinase",Unassigned
+SULR_ferr,6.0 fdxrd_h + so3_h --> 6.0 fdxox_h + 3.0 h2o_h + h2s_h + 6.0 h_h,Sulfite reductase (ferredoxin),Unassigned
+THD2,2.0 h_e + nadh_c + nadp_c --> 2.0 h_c + nad_c + nadph_c,NAD(P) transhydrogenase,Unassigned
+UPP3MT_1,2.0 amet_h + uppg3_h --> 2.0 ahcys_h + dscl_h + 2.0 h_h,Uroporphyrinogen methyltransferase,Unassigned
+TMDS3,dump_c + h_c + mlthf_c + nadph_c --> dtmp_c + nadp_c + thf_c,Thymidylate synthase (FAD dependent),Unassigned
+TRPS2_1,ind_c + ser__L_c --> h2o_c + trp__L_c,Tryptophan synthase,Unassigned
+URIC,2.0 h2o_c + o2_c + urate_c --> alltn_c + co2_c + h2o2_c,Uricase,Unassigned
+UAG4E,uacgam_c --> uacgala_c,UDP N acetylglucosamine 4 epimerase,Unassigned
+UDPGPT,udcpp_c + udpg_c --> udcpgl_c + ump_c,Undecaprenyl-phosphate glucose phosphotransferase,Unassigned
+GLCE,glc__D_c --> glc_D_B_c,Alpha-D-Glucose 1-epimerase ,Unassigned
+PHENOL2MONOO,h_c + nadph_c + o2_c + phenol_c --> catechol_c + h2o_c + nadp_c,phenol 2 monooxygenase),Unassigned
+PCRESOLMeH1,2.0 cu2azurin_p + h2o_p + pcresol_p --> 4hba_p + 2.0 cu1azurin_p + 2.0 h_p,p-cresol methylhydroxylase,Unassigned
+PCRESOLMeH2,4hba_p + 2.0 cu2azurin_p + h2o_p --> 4hbald_p + 2.0 cu1azurin_p + 2.0 h_p,p-cresol methylhydroxylase,Unassigned
+AZURINRe,4.0 cu1azurin_p + 4.0 h_p + o2_p --> 4.0 cu2azurin_p + 2.0 h2o_p,Azurin recycle to oxidized state,Unassigned
+3HOXPACt2pp,3hoxpac_p + pep_c <=> 3hoxpac_c + pi_c + pyr_c,3-Hydroxyphenylacetic acid permease to cytoplasm,Unassigned
+3HPA6OX,3hoxpac_c + h_c + nadph_c + o2_c --> h2o_c + hgentis_c + nadp_c,3-Hydroxyphenylacetate 6-monooxygenase),Unassigned
+4HALDD,4hoxpacd_c + h2o_c + nad_c --> 4hphac_c + 2.0 h_c + nadh_c,Aldehyde dehydrogenase  4 hydroxyphenylacetaldehyde  NAD ,Unassigned
+CMCMSAD,5cmhmsa_c + h2o_c + nad_c --> 5cmhm_c + 2.0 h_c + nadh_c,4 carboxy 2 hydroxymuconate 6 semialdehyde dehydrogenase,Unassigned
+OPTCCL,5cohe_c + h_c --> 2hh24dd_c + co2_c,5 carboxy 2 oxohept 3 enedioate decarboxylation,Unassigned
+2HH24DDH,2hh24dd_c + h2o_c --> 4h2kpi_c,2hh24dd hydratase,Unassigned
+4H2KPILY,4h2kpi_c --> pyr_c + sucsal_c,4h2kpi Lyase,Unassigned
+ARABD,Lara14lac_c + h_c + nadh_c --> arab__L_c + nad_c,L-ARABINOSE-1-DEHYDROGENASE-RXN,Unassigned
+LARABLN,Lara14lac_c + h2o_c --> Larabnt_c,"L-arabino-1,4-lactonase",Unassigned
+LARABTD,Larabnt_c --> 2d3darabnt_c + h2o_c,L-arabinate dehydratase,Unassigned
+2DLARAA,2d3darabnt_c --> gcald_c + pyr_c,2-dehydro-3-deoxy L-arabinate aldolase,Unassigned
+DRBK,atp_c + drib_c --> 2dr5p_c + adp_c + h_c,Deoxyribokinase,Unassigned
+DRPA,2dr5p_c --> acald_c + g3p_c,Deoxyribose-phosphate aldolase,Unassigned
+AMPEP11,gly_pro__L_c + h2o_c --> gly_c + h_c + pro__L_c,Aminopeptidase ,Unassigned
+XYLK,atp_c + xylu__D_c --> adp_c + h_c + xu5p__D_c,Xylulokinase,Unassigned
+XYLI1,xyl__D_c --> xylu__D_c,Xylose isomerase,Unassigned
+TOLOMONOOX1,h_c + nadh_c + o2_c + ocresol_c --> 3mcat_c + h2o_c + nad_c,Toluene ortho monooxygenase hydroxylase,Unassigned
+TOLOMONOOX2,h_c + mcresol_c + nadh_c + o2_c --> 3mcat_c + h2o_c + nad_c,Toluene ortho monooxygenase hydroxylase,Unassigned
+TOLOMONOOX3,h_c + mcresol_c + nadh_c + o2_c --> 3mcat_c + h2o_c + nad_c,Toluene ortho monooxygenase hydroxylase,Unassigned
+TOLOMONOOX4,h_c + nadh_c + o2_c + pcresol_c --> 3mcat_c + h2o_c + nad_c,Toluene ortho monooxygenase hydroxylase,Unassigned
