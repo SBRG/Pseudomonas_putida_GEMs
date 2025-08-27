@@ -1,0 +1,17 @@
+Feature	Subfeature	This study	iJN1463	Δ (This study - iJN1463)
+Genes	Total	2326	1462	864
+Genes	Metabolic	1810	1014	796
+Genes	Transport	531	461	70
+Metabolites	Total unique	2525	2153	372
+Metabolites	Unique Metabolites (vs other model)	1723	1432	291
+Metabolites	Cytoplasmic	1527	1339	188
+Metabolites	Periplasmic	496	465	31
+Metabolites	Extracellular	407	349	58
+Reactions	Total	3301	2927	374
+Reactions	Cytoplasmic	1801	1604	197
+Reactions	Periplasmic	133	129	4
+Reactions	Extracellular	423	368	55
+Transport reactions	Total	915	826	89
+Transport reactions	Cytoplasm to periplasm	486	456	30
+Transport reactions	Periplasm to extracellular	337	309	28
+Transport reactions	Cytoplasm to extracellular	40	10	30
